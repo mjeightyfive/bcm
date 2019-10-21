@@ -29,6 +29,10 @@ const App = () => (
 }
 
 .app__title {
+    color: black;
+}
+
+.app__title--teal {
     color: teal;
 }
 ```
