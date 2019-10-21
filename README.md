@@ -78,7 +78,7 @@ Type: `object`
     photo__img: "photo__img__X_pPt"
     photo__img--featured: "photo__img--featured__30ZMP"
     photo__img--framed: "photo__img--framed__2Myh-"
-    photo__img--landscape: "photo__img--black-and-white__10Og5"
+    photo__img--black-and-white: "photo__img--black-and-white__10Og5"
     ...
 }
 ```
