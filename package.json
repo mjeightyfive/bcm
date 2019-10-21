@@ -1,6 +1,6 @@
 {
     "name": "@mjeightyfive/bcm",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "BEM class names generator for CSS modules",
     "main": "src/index.js",
     "scripts": {
@@ -10,7 +10,14 @@
         "type": "git",
         "url": "git+ssh://git@gitlab.com/mjeightyfive/bcm.git"
     },
-    "keywords": ["bem", "class", "names", "generator", "css", "modules"],
+    "keywords": [
+        "bem",
+        "class",
+        "names",
+        "generator",
+        "css",
+        "modules"
+    ],
     "author": "Marcin <mjeightyfive@gmail.com>",
     "license": "MIT",
     "bugs": {
