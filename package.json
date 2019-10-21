@@ -1,6 +1,6 @@
 {
     "name": "@mjeightyfive/bcm",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "BEM class names generator for CSS modules",
     "main": "src/index.js",
     "scripts": {
