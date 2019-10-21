@@ -1,4 +1,4 @@
-# @mjeightyfive/bcm [![Build Status](https://travis-ci.com/mjeightyfive/bcm.svg?branch=master)](https://travis-ci.com/mjeightyfive/@mjeightyfive/bcm)
+# @mjeightyfive/bcm [![Build Status](https://travis-ci.org/mjeightyfive/bcm.svg?branch=master)](https://travis-ci.org/mjeightyfive/bcm)
 
 ## Install
 
