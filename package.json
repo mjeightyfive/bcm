@@ -6,24 +6,6 @@
     "scripts": {
         "test": "jest"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+ssh://git@gitlab.com/mjeightyfive/bcm.git"
-    },
-    "keywords": [
-        "bem",
-        "class",
-        "names",
-        "generator",
-        "css",
-        "modules"
-    ],
-    "author": "Marcin <mjeightyfive@gmail.com>",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://gitlab.com/mjeightyfive/bcm/issues"
-    },
-    "homepage": "https://gitlab.com/mjeightyfive/bcm#readme",
     "devDependencies": {
         "@mjeightyfive/eslint-config": "0.0.13",
         "babel-eslint": "10.0.3",
@@ -42,7 +24,22 @@
         "jest": "24.9.0",
         "prettier": "1.18.2"
     },
-    "dependencies": {
-        "@mjeightyfive/chunkify-array": "1.0.1"
-    }
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mjeightyfive/bcm.git"
+    },
+    "keywords": [
+        "bem",
+        "class",
+        "names",
+        "generator",
+        "css",
+        "modules"
+    ],
+    "author": "Marcin <mjeightyfive@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mjeightyfive/bcm/issues"
+    },
+    "homepage": "https://github.com/mjeightyfive/bcm#readme"
 }
